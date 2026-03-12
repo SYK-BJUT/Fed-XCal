@@ -1,0 +1,5 @@
+[min, max] [mean +- std]
+inner: [0.0052563509, 0.0207197637] [0.0133978181 +- 0.0019883085]
+outer: [0.0112532374, 0.0227332409] [0.0150321930 +- 0.0012010686]
+number of genuine matching:  2700
+number of impostor matching: 807300
